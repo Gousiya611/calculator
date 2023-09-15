@@ -1,18 +1,22 @@
 .text-center{
     text-align: center;
-}
-.bg-red{
+  }
+  
+  .bg-red{
     background: red;
-}
-.mx-auto{
+  }
+  
+  .mx-auto{
     margin: auto;
-}
-.flex{
-    display: flex;
-}
-.flex-col{
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
     flex-direction: column;
-}
-.item-center{
+  }
+  
+  .items-center{
     align-items: center;
-}
+  }
